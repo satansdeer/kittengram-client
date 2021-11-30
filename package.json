@@ -10,7 +10,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.4.4",
     "styled-components": "^4.4.1",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.757.0"
   },
   "scripts": {
     "start": "react-scripts start",
